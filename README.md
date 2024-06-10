@@ -14,4 +14,4 @@ You will see four projects that are pinned. These are some of my favorite projec
 If you ever need to reach me, please email me at:
 pmcslarrow@icloud.com
 
-Thank you!ß
+Thank you!
