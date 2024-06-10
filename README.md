@@ -3,7 +3,7 @@
 
 # Welcome
 
-Welcome to my Github! Please feel free to search through some of my public repos of projects that I have enjoyed creating over the years. 
+Welcome to my Github! Please feel free to search through some of my public repos that I have enjoyed creating over the years. 
 
 You will see four projects that are pinned. These are some of my favorite projects I have worked on:
 1. hoop-easy-material-ui is a full stack react app that aims to help people find and create pickup basketball games. It is my most complete application and is hosted at hoopeasy.org. It is also the newest version of hoop easy that remodeled the UI and logic used to drive efficiency in the memory usage. The README file has lots of information on what changed from the old version of hoop easy and why it is actually better now than before. 
