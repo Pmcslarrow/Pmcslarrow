@@ -17,7 +17,7 @@ If you ever need to reach me, please email me at:
 pmcslarrow@icloud.com
 
 Please find my resume here:
-[Paul_McSlarrow_Resume.pdf](https://github.com/user-attachments/files/17235367/Paul_McSlarrow_Resume__Fall_2024.pdf)
+[Paul_McSlarrow_Resume__Fall_2024.pdf](https://github.com/user-attachments/files/17251832/Paul_McSlarrow_Resume__Fall_2024.pdf)
 
 
 Thank you!
