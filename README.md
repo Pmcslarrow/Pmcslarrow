@@ -5,13 +5,10 @@
 
 Welcome to my Github! Please feel free to search through some of my public repos that I have enjoyed creating over the years. 
 
-I am currently completing my M.S. in Computer Science at Northwestern University, specializing in AI/ML. If you wish to learn more about the projects I have worked on, please visit: https://pmcslarrow.github.io.
+I am currently completing my M.S. in Computer Science at Northwestern University, specializing in AI/ML. If you wish to learn more about the projects I have worked on, please visit: https://pmcslarrow.github.io
 
 If you ever need to reach me, please email me at:
 pmcslarrow@icloud.com
-
-Please find my resume here:
-[Paul McSlarrow Resume Winter 2025.pdf](https://github.com/user-attachments/files/19440628/Paul.McSlarrow.Resume.Winter.2025.pdf)
 
 
 Thank you!
